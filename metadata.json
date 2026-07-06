@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "A minimalist weather dashboard that delivers real-time weather analytics, historical climate comparisons, custom extreme event alerts, and AI-powered outdoor activity recommendations.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
